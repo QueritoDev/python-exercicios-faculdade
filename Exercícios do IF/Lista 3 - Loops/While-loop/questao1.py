@@ -14,5 +14,4 @@ while(verificaNome!=username and verificaSenha!=senha):
 if(verificaNome==username and verificaSenha==senha):
     print("Login feito com sucesso\n")
     print(f"Bem vindo {username}!")
-    
 
